@@ -1,5 +1,3 @@
-# Parallel-Programming
-
 student@itcenter-lab128:~/Desktop/newfolder$ make valgrind
 valgrind --leak-check=full --show-leak-kinds=all --track-origins=yes ./memory_demo
 ==9103== Memcheck, a memory error detector
