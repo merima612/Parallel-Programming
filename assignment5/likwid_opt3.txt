@@ -1,0 +1,8 @@
+--------------------------------------------------------------------------------
+CPU name:	Intel(R) Core(TM) i3-2120 CPU @ 3.30GHz
+CPU type:	Intel Core SandyBridge processor
+CPU clock:	3.29 GHz
+ERROR - [./src/perfgroup.c:perfgroup_readGroup:858] No such file or directory.
+Cannot read group file MEM_DP.txt. Searched in /usr/share/likwid/perfgroups/sandybridge/MEM_DP.txt and /root/.likwid/groups/sandybridge/MEM_DP.txt
+ERROR - [./src/perfmon.c:perfmon_addEventSet:2152] No such file or directory.
+Access to performance group MEM_DP not allowed
